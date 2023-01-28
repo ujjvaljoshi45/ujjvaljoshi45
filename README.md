@@ -2,7 +2,7 @@
   <h1 ><b>Hey Guys!, I'm Ujjval! 👋</b></h1>
 </p>
 
-<h3>Currently Working on : ReactJs </h3>
+<h3>Currently Working on : MERN </h3>
 <p >
 I am a Software Developer Looking forward for some great opportunities!
 </p>
@@ -35,3 +35,5 @@ I am a Software Developer Looking forward for some great opportunities!
 <p >
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ujjvaljoshi45" />
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayvara&theme=tokyonight" alt="udayvara" /></p>
