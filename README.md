@@ -36,4 +36,4 @@ I am a Software Developer Looking forward for some great opportunities!
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ujjvaljoshi45" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayvara&theme=tokyonight" alt="udayvara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjvaljoshi45&theme=tokyonight" alt="udayvara" /></p>
