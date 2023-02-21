@@ -25,6 +25,9 @@ I am a Software Developer Looking forward for some great opportunities!
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></img>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
 </div>
+<div>
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></img>
+</div>
 </p>
 <p>
 <h2>Socials:</h2> <br>
