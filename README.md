@@ -2,7 +2,7 @@
   <h1 ><b>Hey Guys!, I'm Ujjval! 👋</b></h1>
 </p>
 
-<h3>Currently Working on : MERN </h3>
+<h3>Currently Working on : Flutter </h3>
 <p >
 I am a Software Developer Looking forward for some great opportunities!
 </p>
