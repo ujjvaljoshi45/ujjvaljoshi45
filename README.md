@@ -44,8 +44,6 @@ I am a Software Developer Looking forward for some great opportunities!
 <a href="https://www.linkedin.com/in/ujjval-joshi-4a5832203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <br>
 <a href="https://www.instagram.com/joshi_ujjval17/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
-<p >
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/ujjvaljoshi45" />
-</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjvaljoshi45&theme=dark" alt="ujjvaljoshi45" /></p>
