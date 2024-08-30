@@ -45,4 +45,4 @@ I am a Software Developer Looking forward for some great opportunities!
 <a href="https://www.instagram.com/joshi_ujjval17/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjvaljoshi45&show_icons=true&locale=en&layout=compact" alt="ujjvaljoshi45" /></p>
+
