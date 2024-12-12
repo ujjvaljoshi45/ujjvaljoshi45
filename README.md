@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Ujjval Joshi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=F75C7E&center=true&vCenter=true&width=500&lines=Flutter+Developer+from+Gujarat%2C+India;Lover+of+clean+code+and+creative+solutions;Exploring+Cloud+%2B+IoT+%2B+Mobile+Innovation" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer+;Likes+to+keep+it+clean;Creative+Solutions;Exploring+Cloud;Mobile+Inovation" alt="Typing SVG" /></a>
 </p>
 
 ---
