@@ -1,48 +1,81 @@
-<p>
-  <h1 ><b>Hey Guys!, I'm Ujjval! 👋</b></h1>
+<h1 align="center">Hi there! I'm Ujjval Joshi 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=F75C7E&center=true&vCenter=true&width=500&lines=Flutter+Developer+from+Gujarat%2C+India;Lover+of+clean+code+and+creative+solutions;Exploring+Cloud+%2B+IoT+%2B+Mobile+Innovation" alt="Typing SVG" />
 </p>
 
-<h3>Currently Working on : Flutter </h3>
-<p >
-I am a Software Developer Looking forward for some great opportunities!
+---
+
+### 🚀 About Me:
+
+- 🏡 **Location:** Gujarat, India
+- 🔧 **Tech Stack:** Flutter, Dart, Firebase, REST APIs, Firebase Cloud Functions
+- 📈 **Tools:** Google Analytics, GitHub Actions, DBMS, AWS Basics
+- 🔗 [My Portfolio Website](#) (Coming Soon!)
+- 🎨 **Hobbies:** Geopolitics, Formula 1, Mystery & Thrillers, Music, and Gaming
+
+---
+
+### 🔧 My Tech Toolbox:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/REST%20APIs-%23007EC6.svg?style=for-the-badge&logo=REST&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-%23F9AB00.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white" alt="Google Analytics" />
 </p>
 
+---
 
-<p> 
-<h2>Technologies</h2>
-<div>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"></img>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></img>
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></img>
-</div>
-<div>
-<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></img>
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"></img>
-</div>
-<div>
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></img>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></img>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></img>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></img>
+### 🔄 GitHub Stats:
 
-</div>
-<div>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></img>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
-</div>
-
-</p>
-<p>
-<h2>Socials:</h2> <br>
-<a href="https://twitter.com/joshi_ujjval17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a> <br>
-<a href="https://www.linkedin.com/in/ujjval-joshi-4a5832203/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a> <br>
-<a href="https://www.instagram.com/ujjval.17/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujjvaljoshi45&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ujjvaljoshi45&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
 
+### 📝 What I'm Currently Working On:
+
+- 📊 Building robust **Flutter Apps** with scalable architectures.
+- ☁️ Exploring **Cloud Computing** with AWS and Firebase.
+- ✨ Mastering **GitHub Actions** for CI/CD workflows.
+
+---
+
+### 🌐 Connect with Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ujjval-joshi-4a5832203/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/joshi_ujjval17" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/ujjval.17/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ujjvaljoshi45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/ujjvaljoshi45">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+### 🙌 Fun Fact:
+
+> "The best way to predict the future is to create it!" 🌟
+
+---
+
+### 🚀 Let's Build Something Amazing Together!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header" />
+</p>
