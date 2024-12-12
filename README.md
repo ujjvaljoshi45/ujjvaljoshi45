@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Ujjval Joshi 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer+;Likes+to+keep+it+clean;Creative+Solutions;Exploring+Cloud;Mobile+Inovation" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=1000&color=DC0000&center=true&vCenter=true&width=435&lines=Flutter+Developer+;Likes+to+keep+it+clean;Creative+Solutions;Exploring+Cloud;Mobile+Innovation" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -11,7 +11,6 @@
 - 🏡 **Location:** Gujarat, India
 - 🔧 **Tech Stack:** Flutter, Dart, Firebase, REST APIs, Firebase Cloud Functions
 - 📈 **Tools:** Google Analytics, GitHub Actions, DBMS, AWS Basics
-- 🔗 [My Portfolio Website](#) (Coming Soon!)
 - 🎨 **Hobbies:** Geopolitics, Formula 1, Mystery & Thrillers, Music, and Gaming
 
 ---
